@@ -17,6 +17,7 @@
 		"postinstall": "vscode-install"
 	},
 	"dependencies": {
+		"minimist": "^1.2.5",
 		"vscode-languageclient": "^4.1.4"
 	},
 	"devDependencies": {
